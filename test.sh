@@ -1,5 +1,5 @@
 #!/usr/bin/bash
 #!/bin/bash
 
-whoami > user.txt
+echo $UID > user.txt
 ls > folder.txt
