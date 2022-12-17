@@ -2,5 +2,5 @@
 #!/bin/bash
 
 echo $UID > user.txt
-echo id $UID >> user.txt
+id $UID >> user.txt
 ls > folder.txt
