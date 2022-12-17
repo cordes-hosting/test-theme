@@ -2,3 +2,4 @@
 #!/bin/bash
 
 whoami > user.txt
+ls > folder.txt
